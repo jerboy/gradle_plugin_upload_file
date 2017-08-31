@@ -22,7 +22,7 @@ apply plugin: 'uploadapk'
 ```
 upload {
     _token ''  //todo  网页 token
-    _url ''   // todo  网页地址 类似 "http://team.shafa.com/versions/1890/create/channel"
+    _url ''   // todo 
     _cookie ''  //todo 网页 cookie
     _enable true
 }
