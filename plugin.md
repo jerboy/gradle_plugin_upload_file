@@ -28,6 +28,8 @@ uploadArchives {
 
 ```
 
+**上传插件到本地 `./gradlew uploadArchives`**
+
 
 ## 插件使用环境开发
 
